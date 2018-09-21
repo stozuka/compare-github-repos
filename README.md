@@ -1,6 +1,6 @@
 # compare-github-repos
 
-## This is an application to show information of multiple reposigories in the same table for easy comparison.
+## This is an application to show information of multiple repositories in the same table for easy comparison.
 
 ### Demo: https://compare-github-repos.firebaseapp.com/
 
